@@ -95,7 +95,7 @@
     "intersection-observer": "^0.7.0",
     "linkstate": "^1.1.1",
     "marked": "^0.6.2",
-    "preact": "^8.4.2",
+    "preact": "^8.5.3",
     "preact-compat": "^3.18.5",
     "preact-textarea-autosize": "^4.0.7",
     "prop-types": "^15.7.2",
