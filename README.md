@@ -186,7 +186,7 @@ Our docker implementation is incomplete and may not work smoothly. Please kindly
 
 Simply open dev.to in Gitpod, a free online dev environment for GitHub:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thepracticaldev/dev.to)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thepracticaldev/dev.to) [![Greenkeeper badge](https://badges.greenkeeper.io/dyna-dot/dev.to.svg)](https://greenkeeper.io/)
 
 #### Starting the application
 
